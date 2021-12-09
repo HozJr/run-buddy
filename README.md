@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://hozjr.github.io/fictional-engine/
 
 ## Contribution
 Made with ❤️ by Tedd Hauser Jr.
